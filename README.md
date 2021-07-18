@@ -1,18 +1,12 @@
-# Hey 👋
+# Hey <span aria-label="waving hand" alt="waving hand">👋</span>
+
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piotr-zuralski&layout=compact&theme=dark" alt="Piotr Żuralski top languages" height="125px" width="33%" /></a> <!--<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=piotr-zuralski&show_icons=true&theme=gotham" alt="Piotr Żuralski contributions stats" height="125px" width="33%" /></a>--> <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=piotr-zuralski&theme=dark" alt="Piotr Żuralski contributions stats" height="125px" width="33%" /></a>
+
+## My tech stack
+
+PHP, Symfony, Shell Script/Bash, Python, Html5, JavaScript, Markdown, git, Linux, PostgreSQL, MySQL, AWS, Terraform, Docker, Kubernetes, Nginx, GitHub Actions, Jenkins, GitLab CI
 
 ## How to reach me
 
-- [Piotr Żuralski @ KeyBase](https://keybase.io/piotr_zuralski/)
-- [Piotr Żuralski @ GitLab](https://gitlab.com/piotr-zuralski)
-- [Piotr Żuralski @ StackOverflow](https://stackoverflow.com/users/3580681/piotr-%C5%BBuralski?tab=profile)
 - [Piotr Żuralski @ LinkedIn](https://www.linkedin.com/in/piotrzuralski/)
-- [Piotr Żuralski @ CodersRank](https://profile.codersrank.io/user/piotr-zuralski)
-- [Piotr Żuralski @ Twitter](https://twitter.com/piotr_zuralski)
-- [Piotr Żuralski @ Crunchbase](https://www.crunchbase.com/person/piotr-%C5%BBuralski)
-- [Piotr Żuralski @ GoldenLine](https://www.goldenline.pl/piotr-zuralski/)
-- [Piotr Żuralski @ Medium](https://medium.com/@piotr.zuralski)
-- [Piotr Żuralski @ SlideShare](https://www.slideshare.net/Piotruralski)
-- [Piotr Żuralski @ About.me](https://about.me/piotr-zuralski)
-- [Piotr Żuralski @ linktr.ee](https://linktr.ee/piotr_zuralski)
 - [piotr.zuralski.net](https://piotr.zuralski.net)
-- [zuralski.net](https://zuralski.net)
