@@ -1,6 +1,6 @@
 # Hey <span aria-label="waving hand" alt="waving hand">👋</span>
 
-I'm Peter - Site Reliability Engineer.
+I'm Piotr - Site Reliability Engineer.
 
 <!--
 **piotr-zuralski/piotr-zuralski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
