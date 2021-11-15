@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 🔭  &nbsp; I'm currently working on more automations (Kubernetes, monitoring, CI/CD)<br>
-🌱  &nbsp; I'm currently learning Python and golang<br>
+🌱  &nbsp; I'm currently learning Golang and improving Python<br>
 
 ## My tech stack
 
