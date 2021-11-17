@@ -33,7 +33,8 @@ PHP, Symfony, Shell Script/Bash, Python, Html5, JavaScript, Markdown, git, Linux
 
 Site Reliability Engineer, Senior Software Engineer, Technical Lead, Tech Lead, Senior Software Developer
 
-## How to reach me
+## &nbsp;
 
+- [Piotr Żuralski resume](https://registry.jsonresume.org/piotr-zuralski)
 - [Piotr Żuralski @ LinkedIn](https://www.linkedin.com/in/piotrzuralski/)
 - [piotr.zuralski.net](https://piotr.zuralski.net)
