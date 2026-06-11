@@ -1,50 +1,46 @@
-# Hey <span aria-label="waving hand" alt="waving hand">👋</span>
+# Hi, I'm Piotrek <span aria-label="waving hand" alt="waving hand">👋</span>
 
-I'm Piotr - Site Reliability Engineer.
+**Senior Platform Engineer** with 17+ years of commercial experience building
+resilient, developer-first platforms on AWS and Kubernetes.
 
-<!--
-**piotr-zuralski/piotr-zuralski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> 📍 Málaga, Spain (CET) &nbsp;·&nbsp; Welcoming conversations about remote EU roles
 
-🔭  &nbsp; I'm currently working on more automations (Kubernetes, monitoring, CI/CD)<br>
-🌱  &nbsp; I'm currently learning Golang and improving Python<br>
+---
 
-## My tech stack
+## 🚀 What I do
 
-PHP, Symfony, Shell Script/Bash, Python, Html5, JavaScript, Markdown, git, Linux, PostgreSQL, MySQL, MariaDB, Amazon Aurora, AWS (ElastiCache, Elasticsearch, EC2, CloudFront, <abbr title="Relational Database Service">RDS</abbr>, <abbr title="Elastic Kubernetes Service">EKS</abbr>, <abbr title="Key Management Service">KMS</abbr>, VPC, <abbr title="Simple Storage Service">S3</abbr>, <abbr title="Simple Notification Service">SNS</abbr>, <abbr title="Elastic Container Registry">ECR</abbr>, Lambda, Secrets Manager, <abbr title="Message Queue broker">MQ</abbr>, API Gateway, <abbr title="Simple Queue Service">SQS</abbr>, IAM), Terraform, Docker, Kubernetes, Helm, Nginx, GitHub Actions, Jenkins, GitLab CI, Spinnaker
+- **Platform & Cloud Engineering** — AWS, Kubernetes, Helm
+- **Infrastructure as Code** — Terraform / OpenTofu, modular & production-grade
+- **CI/CD & Automation** — GitHub Actions, GitLab CI, Jenkins, n8n
+- **Observability & SRE** — monitoring, alerting, incident response, reliability engineering
+- **AI / LLM Integration** — AI agents and LLM-driven automation in engineering workflows
+- **Languages** — Python, Node.js / TypeScript, Go, HCL, Bash
 
-## &nbsp;
+---
 
-- [Piotr Żuralski resume](https://registry.jsonresume.org/piotr-zuralski)
-- [Piotr Żuralski @ LinkedIn](https://www.linkedin.com/in/piotrzuralski/)
-- [piotr.zuralski.net](https://piotr.zuralski.net)
+## 🛠️ Core Tech Stack
 
-## 📈 Some stats
+| Layer | Tools |
+|---|---|
+| **Cloud** | AWS (EKS, Lambda, RDS/Aurora, S3, SQS, SNS, IAM, KMS, VPC, CloudFront, API Gateway, ECR, ElastiCache, MQ, Secrets Manager) |
+| **Containers** | Kubernetes, Helm, Docker |
+| **IaC** | Terraform, OpenTofu |
+| **CI/CD** | GitHub Actions, GitLab CI, Jenkins |
+| **Automation** | n8n, custom Python & Node.js tooling |
+| **Languages** | Python, TypeScript / Node.js, Bash, HCL, Go |
+| **Databases** | PostgreSQL, MySQL / MariaDB, Amazon Aurora |
 
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piotr-zuralski&layout=compact&theme=dark&v=2" alt="Piotr Żuralski top languages" height="125px" width="33%" /></a> <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=piotr-zuralski&show_icons=true&theme=gotham&v=2" alt="Piotr Żuralski contributions stats" height="125px" width="33%" /></a> <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=piotr-zuralski&theme=dark&v=2" alt="Piotr Żuralski contributions stats" height="125px" width="33%" /></a>
+---
 
-<small><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub><sup><sub>
-Tech roles:
-SRE, Site Reliability Engineer,
-Senior Software Engineer, 
-Technical Lead, 
-Tech Lead, 
-Senior Software Developer,
-Senior Software Engineer,
-DevOps Engineer,
-Infrastructure Engineer,
-Cloud Operations Engineer, 
-Platform Engineer,
-Cloud Engineer,
-AWS Engineer,
-Kubernetes Engineer
-</sub></sup></sub></sup></sub></sup></sub></sup></sub></sup></small>
+## 📌 Currently
+
+- 🔭 Building production-grade Platform Engineering tooling (Kubernetes, CI/CD, IaC)
+- 🤖 Exploring AI agent integration and LLM-driven automation in DevOps workflows
+
+---
+
+## 📫 Find me
+
+- 📄 [Resume / CV](https://registry.jsonresume.org/piotr-zuralski)
+- 💼 [LinkedIn](https://www.linkedin.com/in/piotrzuralski/)
+- 🌐 [piotr.zuralski.net](https://piotr.zuralski.net)
